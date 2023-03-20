@@ -102,6 +102,7 @@ objectEntries.forEach(element =>{ //esta es la forma que dijo el profesor
 //     }
 // }
 
+console.log('CORREGIR')
 for(let i = 0; i< objectEntries.length; i++){   //esta es la segunda forma que dijo el profesor pero que no se usa
     const propName = objectEntries[i][0]
     const propValue = objectEntries[i][1]
